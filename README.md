@@ -29,4 +29,4 @@
 
 6. AWS Re Start Lab Check
 
-답)
+답) 완료
