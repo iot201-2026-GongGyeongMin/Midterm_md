@@ -21,7 +21,7 @@
 
 4. 3 Device IoT Thermostat
 
-답)
+답) project repo에 커밋 실패하여 flow 업로드드립니다.
 
 5. 3 Device IoT Thermostat Video
 
